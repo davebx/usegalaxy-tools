@@ -1,4 +1,4 @@
-tool_panel_section_label: FASTA/FASTQ
+tool_panel_section_id: fasta_fastq
 tools:
 - name: cutadapt
   owner: lparsons

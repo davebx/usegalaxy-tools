@@ -1,4 +1,4 @@
-tool_panel_section_label: FASTQ Quality Control
+tool_panel_section_id: fastq_quality_control
 tools:
 - name: fastqc
   owner: devteam
